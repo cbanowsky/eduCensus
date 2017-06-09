@@ -1,0 +1,72 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "79423",
+          "short_name": "79423",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lubbock",
+          "short_name": "Lubbock",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Texas",
+          "short_name": "TX",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lubbock, TX 79423, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 33.5941451,
+            "lng": -101.790041
+          },
+          "southwest": {
+            "lat": 33.3851218,
+            "lng": -101.921997
+          }
+        },
+        "location": {
+          "lat": 33.4258874,
+          "lng": -101.866362
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 33.530889,
+            "lng": -101.790041
+          },
+          "southwest": {
+            "lat": 33.3851218,
+            "lng": -101.921997
+          }
+        }
+      },
+      "place_id": "ChIJkde9Tqlv_oYRaytXT3uT-OA",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,71 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "75093",
+          "short_name": "75093",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Plano",
+          "short_name": "Plano",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Texas",
+          "short_name": "TX",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Plano, TX 75093, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 33.094414,
+            "lng": -96.766645
+          },
+          "southwest": {
+            "lat": 33.007773,
+            "lng": -96.8602289
+          }
+        },
+        "location": {
+          "lat": 33.0386278,
+          "lng": -96.8243812
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 33.065598,
+            "lng": -96.766645
+          },
+          "southwest": {
+            "lat": 33.007773,
+            "lng": -96.8602289
+          }
+        }
+      },
+      "place_id": "ChIJZ6cCHwwjTIYRkrUqzugTt_I",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "status": "OK"

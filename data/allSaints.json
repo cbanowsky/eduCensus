@@ -1,0 +1,78 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "76108",
+          "short_name": "76108",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fort Worth",
+          "short_name": "Fort Worth",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Texas",
+          "short_name": "TX",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fort Worth, TX 76108, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 32.969034,
+            "lng": -97.40357700000001
+          },
+          "southwest": {
+            "lat": 32.7206849,
+            "lng": -97.599419
+          }
+        },
+        "location": {
+          "lat": 32.7747949,
+          "lng": -97.5138947
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 32.826563,
+            "lng": -97.4427301
+          },
+          "southwest": {
+            "lat": 32.7206849,
+            "lng": -97.599419
+          }
+        }
+      },
+      "place_id": "ChIJWQFrSOQLToYRsZR_5HvWi6M",
+      "postcode_localities": [
+        "Fort Worth",
+        "Lakeside",
+        "WHT SETTLEMT",
+        "White Settlement"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "status": "OK"
+}
